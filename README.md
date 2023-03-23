@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **maryamrafaqat88@gmail.com**
 
-- ⚡ Fun fact ** I love travelling alot**
+- ⚡ Fun fact **I love travelling alot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
