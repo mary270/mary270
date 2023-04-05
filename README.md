@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maryam Rafaqat</h1>
-<h3 align="center">Hi there! I'm a Data Scientist from Pakistan who loves to play with data and extract useful information. My passion for data started early on in my career, and I've since honed my skills in data analysis, machine learning, and data visualization.</h3>
+<h3 align="center">Data Scientist from Pakistan who loves to play with data and extract useful information. My passion for data started early on in my career, and I've since honed my skills in data analysis, machine learning, and data visualization.</h3>
 
 <img align="left" alt= "coding"  width="400" src= "https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
