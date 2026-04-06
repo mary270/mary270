@@ -1,31 +1,183 @@
-<h1 align="center">Hi 👋, I'm Maryam Rafaqat</h1>
-<h3 align="center">Data Scientist from Pakistan who loves to play with data and extract useful information. My passion for data started early on in my career, and I've since honed my skills in data analysis, machine learning, and data visualization.</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maryam Rafaqat | AI/ML Engineer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #0d1117;
+            color: #c9d1d9;
+            line-height: 1.6;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            text-align: center;
+            color: #58a6ff;
+        }
+        p {
+            text-align: center;
+        }
+        .section {
+            margin-top: 40px;
+        }
+        .skills, .tech {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
+        }
+        .badge {
+            background-color: #161b22;
+            padding: 8px 12px;
+            border-radius: 6px;
+            border: 1px solid #30363d;
+        }
+        .links a {
+            color: #58a6ff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        .links {
+            text-align: center;
+            margin-top: 10px;
+        }
+        ul {
+            max-width: 800px;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
 
-<img align="left" alt= "coding"  width="400" src= "https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<div class="container">
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mary270&label=Profile%20views&color=0e75b6&style=flat" alt="mary270" /> </p>
+    <h1>Maryam Rafaqat</h1>
+    <h3>AI/ML Engineer | Generative AI | LLMs | Data Science</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mary270" alt="mary270" /></a> </p>
+    <p>
+        AI/ML Engineer focused on building scalable and production-ready intelligent systems using Machine Learning, 
+        Deep Learning, and Large Language Models (LLMs). Experienced in designing end-to-end solutions including 
+        data pipelines, model development, and deployment.
+    </p>
 
-- 💬 Ask me about **Data Science, Machine Learning, Front-End development**
+    <div class="links">
+        <strong>Email:</strong> maryamrafaqat88@gmail.com |
+        <a href="https://linkedin.com/in/maryam-rafaqat-462b1a139" target="_blank">LinkedIn</a> |
+        <a href="https://twitter.com/maryam_rafaqat" target="_blank">Twitter</a>
+    </div>
 
-- 📫 How to reach me **maryamrafaqat88@gmail.com**
+    <div class="section">
+        <h2>Professional Summary</h2>
+        <ul>
+            <li>AI/ML Engineer with experience in LLMs, NLP, and Computer Vision</li>
+            <li>Strong foundation in Machine Learning, Deep Learning, and Data Engineering</li>
+            <li>Built Retrieval-Augmented Generation (RAG) pipelines and AI applications</li>
+            <li>Focus on clean, scalable, and production-grade code</li>
+            <li>Open to remote and onsite AI/ML opportunities</li>
+        </ul>
+    </div>
 
-- ⚡ Fun fact **I love travelling alot**
+    <div class="section">
+        <h2>Core Expertise</h2>
+        <div class="skills">
+            <div class="badge">Machine Learning</div>
+            <div class="badge">Deep Learning</div>
+            <div class="badge">NLP</div>
+            <div class="badge">LLMs</div>
+            <div class="badge">Generative AI</div>
+            <div class="badge">RAG</div>
+            <div class="badge">Computer Vision</div>
+            <div class="badge">Feature Engineering</div>
+        </div>
+    </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/maryam_rafaqat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maryam_rafaqat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maryam-rafaqat-462b1a139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maryam-rafaqat-462b1a139" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/datascienceforeveryone364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="datascienceforeveryone364" height="30" width="40" /></a>
-</p>
+    <div class="section">
+        <h2>Tech Stack</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+        <h3>Languages</h3>
+        <div class="tech">
+            <div class="badge">Python</div>
+            <div class="badge">SQL</div>
+            <div class="badge">JavaScript</div>
+        </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mary270&show_icons=true&locale=en&layout=compact" alt="mary270" /></p>
+        <h3>AI/ML</h3>
+        <div class="tech">
+            <div class="badge">PyTorch</div>
+            <div class="badge">TensorFlow</div>
+            <div class="badge">Scikit-learn</div>
+            <div class="badge">OpenCV</div>
+        </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mary270&show_icons=true&locale=en" alt="mary270" /></p>
+        <h3>Data & Backend</h3>
+        <div class="tech">
+            <div class="badge">Pandas</div>
+            <div class="badge">NumPy</div>
+            <div class="badge">Flask</div>
+            <div class="badge">REST APIs</div>
+        </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mary270&" alt="mary270" /></p>
+        <h3>LLMs & GenAI</h3>
+        <div class="tech">
+            <div class="badge">LangChain</div>
+            <div class="badge">Vector DBs</div>
+            <div class="badge">Prompt Engineering</div>
+            <div class="badge">RAG Systems</div>
+        </div>
 
+        <h3>Cloud & DevOps</h3>
+        <div class="tech">
+            <div class="badge">AWS</div>
+            <div class="badge">GCP</div>
+            <div class="badge">Docker</div>
+            <div class="badge">Kubernetes</div>
+            <div class="badge">Git</div>
+            <div class="badge">Linux</div>
+        </div>
+
+        <h3>Databases</h3>
+        <div class="tech">
+            <div class="badge">PostgreSQL</div>
+            <div class="badge">MySQL</div>
+            <div class="badge">MongoDB</div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Selected Work</h2>
+        <ul>
+            <li>Built RAG-based question answering systems using LLMs and vector databases</li>
+            <li>Developed end-to-end ML pipelines from preprocessing to deployment</li>
+            <li>Implemented NLP applications including classification and embeddings</li>
+            <li>Applied computer vision techniques on real-world datasets</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Engineering Principles</h2>
+        <ul>
+            <li>Write clean, maintainable, and testable code</li>
+            <li>Build scalable and efficient systems</li>
+            <li>Focus on practical and impactful solutions</li>
+            <li>Continuously adapt to advancements in AI</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <p style="text-align:center; margin-top:40px;">
+            Building intelligent systems with real-world impact.
+        </p>
+    </div>
+
+</div>
+
+</body>
+</html>
