@@ -24,18 +24,35 @@
 
 ## 🧬 About Me
 
-```python
-class MaryamRafaqat:
-    def __init__(self):
-        self.name       = "Maryam Rafaqat"
-        self.role       = "AI / ML Engineer"
-        self.location   = "Lahore, Pakistan 🇵🇰"
-        self.email      = "maryamrafaqat88@gmail.com"
-        self.focus      = ["LLMs", "Generative AI", "RAG", "NLP", "Computer Vision"]
-        self.fun_fact   = "I love travelling — every new place sparks new ideas! ✈️"
+```bash
+┌─────────────────────────────────────────────────────────┐
+│                  maryam@ai-engineer: ~$                 │
+└─────────────────────────────────────────────────────────┘
 
-    def mission(self):
-        return "Building scalable, intelligent systems with real-world impact."
+$ whoami
+  Maryam Rafaqat — AI / ML Engineer
+
+$ cat profile.txt
+  📍 Location   : Lahore, Pakistan 🇵🇰
+  💼 Role       : AI / ML Engineer
+  📧 Email      : maryamrafaqat88@gmail.com
+  🔗 LinkedIn   : linkedin.com/in/maryam-rafaqat-462b1a139
+  🐦 Twitter    : @maryam_rafaqat
+
+$ cat focus.txt
+  🤖 Large Language Models (LLMs) & Generative AI
+  🔍 Retrieval-Augmented Generation (RAG)
+  🧠 Machine Learning & Deep Learning
+  💬 Natural Language Processing (NLP)
+  👁️  Computer Vision
+
+$ echo $MISSION
+  "Building scalable, intelligent systems with real-world impact."
+
+$ cat fun_fact.txt
+  ✈️  I love travelling — every new place sparks new ideas!
+
+$ _
 ```
 
 ---
@@ -123,19 +140,7 @@ class MaryamRafaqat:
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mary270&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mary270&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mary270&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mary270&theme=react-dark&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mary270&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
 ---
