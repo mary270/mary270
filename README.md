@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Maryam%20Rafaqat&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20LLMs%20%7C%20Generative%20AI%20%7C%20Data%20Science&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Maryam%20Rafaqat&fontSize=55&fontColor=ffffff&fontAlignY=50" alt="Header Banner" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+🧠;LLMs+%7C+RAG+%7C+Generative+AI+🚀;Machine+Learning+%7C+Deep+Learning+⚡;NLP+%7C+Computer+Vision+🔍;Turning+data+into+real-world+impact+🌍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+🧠;LLMs+%7C+RAG+%7C+Generative+AI;Machine+Learning+Engineer;AI+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,7 +16,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryamrafaqat88@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mary270)
 
-<img src="https://komarev.com/ghpvc/?username=mary270&label=Profile+Views&color=a78bfa&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=mary270&label=Profile+Views&color=a78bfa&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -24,7 +24,7 @@
 
 ## 🧬 About Me
 
-```bash
+```
 ┌─────────────────────────────────────────────────────────┐
 │                  maryam@ai-engineer: ~$                 │
 └─────────────────────────────────────────────────────────┘
@@ -60,7 +60,7 @@ $ _
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mary270&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mary270&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -139,8 +139,8 @@ $ _
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mary270&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mary270&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mary270&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mary270&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ---
@@ -158,7 +158,7 @@ $ _
 <div align="center">
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" alt="Footer" />
 
 *✨ Building intelligent systems with real-world impact — one model at a time.*
 
