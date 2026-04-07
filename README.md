@@ -3,10 +3,7 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Maryam%20Rafaqat&fontSize=55&fontColor=ffffff&fontAlignY=50" alt="Header Banner" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+🧠;LLMs+%7C+RAG+%7C+Generative+AI;Machine+Learning+Engineer;AI+Enthusiast" alt="Typing SVG" />
-</a>
+
 
 <br/>
 
@@ -57,13 +54,7 @@ $ _
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mary270&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 🎯 Core Expertise
 
@@ -136,14 +127,7 @@ $ _
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mary270&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mary270&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
----
 
 ## 💡 What I'm Up To
 
